@@ -1,4 +1,4 @@
-kuwait, spain, thailand, morocco, Canada, El Salvador, Puerto Rico, France, Alaska
+\
 
 export default [
   {
@@ -48,7 +48,7 @@ export default [
   },
   {
     title: "Mount Fuji",
-    location: "Japan",
+    location: "Spain",
     googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
     startDate: "12 Jan, 2021",
     endDate: "24 Jan, 2021",
@@ -57,7 +57,7 @@ export default [
   },
   {
     title: "Mount Fuji",
-    location: "Japan",
+    location: "France",
     googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
     startDate: "12 Jan, 2021",
     endDate: "24 Jan, 2021",
@@ -66,7 +66,7 @@ export default [
   },
   {
     title: "Mount Fuji",
-    location: "Japan",
+    location: "Morocco",
     googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
     startDate: "12 Jan, 2021",
     endDate: "24 Jan, 2021",
@@ -75,7 +75,7 @@ export default [
   },
   {
     title: "Mount Fuji",
-    location: "Japan",
+    location: "Puerto Rico",
     googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
     startDate: "12 Jan, 2021",
     endDate: "24 Jan, 2021",
@@ -84,7 +84,7 @@ export default [
   },
   {
     title: "Mount Fuji",
-    location: "Japan",
+    location: "Alaska",
     googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
     startDate: "12 Jan, 2021",
     endDate: "24 Jan, 2021",
@@ -93,7 +93,7 @@ export default [
   },
   {
     title: "Mount Fuji",
-    location: "Japan",
+    location: "El Salvador",
     googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
     startDate: "12 Jan, 2021",
     endDate: "24 Jan, 2021",
@@ -102,7 +102,7 @@ export default [
   },
   {
     title: "Mount Fuji",
-    location: "Japan",
+    location: "Canada",
     googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
     startDate: "12 Jan, 2021",
     endDate: "24 Jan, 2021",
