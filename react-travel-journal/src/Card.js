@@ -4,7 +4,7 @@ const Card = (props) => {
   return (
     <div className="card--container">
       <div className="card--image-container">
-        <img src={props.imgUrl} alt="vacation image"></img>
+        <img src={`./assets/${props.imgUrl}`} alt="vacation image"></img>
       </div>
       <div className="card--info-container">
         <p>{props.location} <a href={props.googleMapsUrl}>View on Google Maps</a></p>
