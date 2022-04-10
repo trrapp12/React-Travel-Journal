@@ -1,0 +1,110 @@
+
+/* ///////////////////
+
+Basic Variables 
+
+////////////////////*/
+
+:root {
+  --shadow-color: 0deg 30% 74%;
+  --shadow-elevation-low:
+    0px 0.7px 1px hsl(var(--shadow-color) / 0),
+    0px 1.1px 1.7px hsl(var(--shadow-color) / 0.12),
+    -0.1px 2.1px 3.2px hsl(var(--shadow-color) / 0.24);
+  --shadow-elevation-medium:
+    0px 0.7px 1px hsl(var(--shadow-color) / 0),
+    -0.1px 2.2px 3.3px hsl(var(--shadow-color) / 0.06),
+    -0.2px 3.8px 5.7px hsl(var(--shadow-color) / 0.12),
+    -0.3px 6.2px 9.3px hsl(var(--shadow-color) / 0.18),
+    -0.4px 10.6px 15.9px hsl(var(--shadow-color) / 0.24);
+  --shadow-elevation-high:
+    0px 0.7px 1px hsl(var(--shadow-color) / 0),
+    -0.2px 3.7px 5.6px hsl(var(--shadow-color) / 0.03),
+    -0.3px 6.3px 9.5px hsl(var(--shadow-color) / 0.07),
+    -0.4px 8.9px 13.4px hsl(var(--shadow-color) / 0.1),
+    -0.5px 11.9px 17.9px hsl(var(--shadow-color) / 0.14),
+    -0.7px 15.8px 23.7px hsl(var(--shadow-color) / 0.17),
+    -0.9px 20.9px 31.4px hsl(var(--shadow-color) / 0.2),
+    -1.2px 27.7px 41.6px hsl(var(--shadow-color) / 0.24),
+    -1.5px 36.6px 54.9px hsl(var(--shadow-color) / 0.27);
+}
+
+* {
+  border: red solid 1px
+}
+
+/* ///////////////////
+
+Normalize
+
+////////////////////*/
+
+body {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+  font-size: 10px;
+}
+
+
+
+/* ///////////////////
+
+Basic Elements
+
+////////////////////*/
+
+main {
+  overflow: hidden; 
+}
+
+img {
+  height: 168px; 
+  width: 125px; 
+  background-color: lightskyblue;
+}
+
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 800px;
+}
+
+/* ///////////////////
+
+Classes
+
+////////////////////*/
+.root {
+  padding: 0px 40px;
+}
+
+.root--top-bar {
+  height: 55px;
+  background-color: #F55A5A;
+}
+
+.root--container {
+  width: 550px;
+  background-color: #FFFFFF;
+  margin: auto; 
+  box-shadow: var(--shadow-elevation-high);
+}
+
+.card--container {
+  display: flex; 
+  flex-direction: row;
+  margin-bottom: 20px;
+  background-color: lightgray;
+}
+
+.card--info-container {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 20px;
+}
+
+/* ///////////////////
+
+Media Queries
+
+////////////////////*/

@@ -2,15 +2,17 @@ import React from 'react'
 
 const Card = (props) => {
   return (
-    <>
-      <p>{props.title}</p>
-      <p>{props.location}</p>
-      <p>{props.googleMapsUrl}</p>
-      <p>{props.startDate}</p>
-      <p>{props.endDate}</p>
-      <p>{props.description}</p>
-      <p>{props.imgUrl}</p>
-    </>
+    <div className="card--container">
+      <div className="card--image-container">
+        <img src={props.imgUrl} alt="vacation image"></img>
+      </div>
+      <div className="card--info-container">
+        <p>{props.location} <a href={props.googleMapsUrl}>View on Google Maps</a></p>
+        <h1>{props.title}</h1>
+        <p>{props.startDate} - {props.endDate}</p>
+        <p>{props.description}</p>
+      </div>
+    </div>
   )
 }
 
