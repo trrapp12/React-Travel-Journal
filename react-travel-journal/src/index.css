@@ -53,6 +53,9 @@ body {
 Basic Elements
 
 ////////////////////*/
+a {
+  color: #918E9B;
+}
 
 main {
   overflow: hidden; 
@@ -62,13 +65,17 @@ img {
   height: 310px;
   width: 240px;
   object-fit: cover;
-  margin: 0px;
+  margin: 0px 10px 0px 0px;
   border-radius: 15px;
 }
 
 h1 {
   font-family: 'Inter', sans-serif;
   font-weight: 800px;
+}
+
+hr {
+  border: 1px solid #f5f5f5;
 }
 
 /* ///////////////////
@@ -88,22 +95,42 @@ Classes
 .root--container {
   width: 550px;
   background-color: #FFFFFF;
-  margin: auto; 
+  margin: auto;
+  box-shadow: var(--shadow-elevation-medium);
+  transition: 400ms ease-in;
+  transform: translate(144px, -30px) rotate(8deg);
+}
+
+.root--container:hover {
   box-shadow: var(--shadow-elevation-high);
+  transition: 400ms ease-in;
 }
 
 .card--container {
-  display: flex; 
+  display: flex;
   flex-direction: row;
-  margin-bottom: 20px;
+  /* margin-bottom: 37px; */
+  border-bottom: solid 2px #f5f5f5;
+  padding: 30px 0;
 }
 
 .card--info-container {
   display: flex;
   flex-direction: column;
   padding: 0px 20px;
+  justify-content: flex-start;
 }
 
+.card--map-pin {
+  height: 10px; 
+  width: 10px; 
+  color: red;
+}
+
+.card--reverse-flow {
+  display: flex;
+  flex-direction: column;
+}
 /* ///////////////////
 
 Media Queries

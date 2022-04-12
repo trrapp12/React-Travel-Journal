@@ -6,7 +6,7 @@ export default [
       googleMapsUrl: "https://goo.gl/maps/Wjiikets3jEH14hXA",
       startDate: "Dec, 2008",
       endDate: "Aug, 2008",
-      description: "I lived in Hefei, Anhui Province, China, teaching English for 4 years.  One of the most amazing opportunities I had was to camp on top of Yellow Mountain and hike the Great Wall of China.",
+      description: "I lived in Hefei, Anhui Province, China, teaching English for 4 years.  One of the most amazing opportunities I had was to camp on top of Yellow Mountain and hike the Great Wall of China. Photo Credit, Trevor Rapp.",
       imageUrl: "imperial_palace.jpg"
   },
   {
@@ -15,7 +15,7 @@ export default [
     googleMapsUrl: "https://goo.gl/maps/qbW9Dk8ApVJWrUyk8",
     startDate: "May 2011",
     endDate: "May, 2021",
-    description: "",
+    description: "As part of Angkhor Sentinel I served a medic on a medical mission that served over 7000 people in just close to two weeks.  I was also able to see the killing fields, a transformational experience, have mortar bombs in the evening, ride on the back of an elephant, borrow a name for my second daughter, and meet some of the best people in the world. Photo Credit, Trevor Rapp.",
     imageUrl: "cambodia_finals.jpg"
   },
   {
@@ -42,7 +42,7 @@ export default [
     googleMapsUrl: "https://goo.gl/maps/CU5A6jofWVtBQKZW7",
     startDate: "May 2011",
     endDate: "May 2011",
-    description: "My entire experience in Thailand was leaving the airport for six hours trying to find a Muay Thai fight but ending up in a strange bar with a bunch of ex-pats moshing.",
+    description: "My entire experience in Thailand was leaving the airport for six hours trying to find a Muay Thai fight but ending up in a strange bar with a bunch of ex-pats moshing. Photo Credit, Trevor Rapp.",
     imageUrl: "117.jpg"
   },
   {
@@ -51,7 +51,7 @@ export default [
     googleMapsUrl: "https://goo.gl/maps/CU5A6jofWVtBQKZW7",
     startDate: "12 Jan, 2021",
     endDate: "24 Jan, 2021",
-    description: "Spent almost a month learning Spanish here.",
+    description: "Spent almost a month learning Spanish in the land of Ben and Marina. I was able to see monuments and architecture that pre-dated Christ, see the most amazing parks, and eat Tapas in the evening. Photo Credit, Trevor Rapp.",
     imageUrl: "spain_projects_and_finished_products_1.jpg"
   },
   {
@@ -60,7 +60,7 @@ export default [
     googleMapsUrl: "https://goo.gl/maps/WcbEQ4xvQPG4zaip9",
     startDate: "12 Jan, 2021",
     endDate: "24 Jan, 2021",
-    description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
+    description: "If there ever was an experience I would want to share with my children, it would be walking from the court in front of Notre Dame, making my way down Avenida Rapp, and then ending the evening looking out from on top the Torre Eiffel below as the sun sets over the patchwork of Parisian streets.",
     imageUrl: "32831375_n.jpeg"
   },
   {
