@@ -29,9 +29,9 @@ Basic Variables
     -1.5px 36.6px 54.9px hsl(var(--shadow-color) / 0.27);
 }
 
-* {
+/* * {
   border: red solid 1px
-}
+} */
 
 /* ///////////////////
 
@@ -59,9 +59,11 @@ main {
 }
 
 img {
-  height: 168px; 
-  width: 125px; 
-  background-color: lightskyblue;
+  height: 310px;
+  width: 240px;
+  object-fit: cover;
+  margin: 0px;
+  border-radius: 15px;
 }
 
 h1 {
@@ -94,7 +96,6 @@ Classes
   display: flex; 
   flex-direction: row;
   margin-bottom: 20px;
-  background-color: lightgray;
 }
 
 .card--info-container {
