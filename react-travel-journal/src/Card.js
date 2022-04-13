@@ -7,10 +7,12 @@ const Card = (props) => {
         <img src={`./assets/${props.imageUrl}`} alt="vacation image"></img>
       </div>
       <div className="card--info-container">
-        <img src="./assets/Path.png" alt="map pin" className="card--map-pin"></img><p>{props.location} <a href={props.googleMapsUrl}>View on Google Maps</a></p>
+        <div className="card--pin-container">
+          <img src="./assets/pin.png" alt="map pin" className="card--map-pin"></img><p className="wide-kearning all-caps block">{props.location} <a className="" href={props.googleMapsUrl}>View on Google Maps</a></p>
+        </div>
         <h1>{props.title}</h1>
-        <p>{props.startDate} - {props.endDate}</p>
-        <p>{props.description}</p>
+        <p className="small-text bold">{props.startDate} - {props.endDate}</p>
+        <p className="">{props.description}</p>
       </div>
       <div className="card--reverse-flow">
         <hr></hr>

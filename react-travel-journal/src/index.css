@@ -5,6 +5,11 @@ Basic Variables
 
 ////////////////////*/
 
+@font-face {
+  font-family: rubberstamp;
+  src: url(../public/assets/MailartRubberstamp-Regular-Oblique/MailartRubberstamp-Regular.otf);
+}
+
 :root {
   --shadow-color: 0deg 30% 74%;
   --shadow-elevation-low:
@@ -43,7 +48,7 @@ body {
   margin: 0;
   box-sizing: border-box;
   font-family: 'Inter', sans-serif;
-  font-size: 10px;
+  font-size: 12px;
 }
 
 
@@ -71,11 +76,15 @@ img {
 
 h1 {
   font-family: 'Inter', sans-serif;
-  font-weight: 800px;
+  font-weight: 800;
 }
 
 hr {
   border: 1px solid #f5f5f5;
+}
+
+p {
+  margin: 0;
 }
 
 /* ///////////////////
@@ -83,27 +92,9 @@ hr {
 Classes
 
 ////////////////////*/
-.root {
-  padding: 0px 40px;
-}
 
-.root--top-bar {
-  height: 55px;
-  background-color: #F55A5A;
-}
-
-.root--container {
-  width: 550px;
-  background-color: #FFFFFF;
-  margin: auto;
-  box-shadow: var(--shadow-elevation-medium);
-  transition: 400ms ease-in;
-  transform: translate(144px, -30px) rotate(8deg);
-}
-
-.root--container:hover {
-  box-shadow: var(--shadow-elevation-high);
-  transition: 400ms ease-in;
+.all-caps {
+  text-transform: uppercase;
 }
 
 .card--container {
@@ -127,9 +118,75 @@ Classes
   color: red;
 }
 
+.card--pin-container {
+
+}
+
 .card--reverse-flow {
   display: flex;
   flex-direction: column;
+}
+
+.bold {
+  font-weight: 800;
+}
+
+.overflow-ellipsis {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.root {
+  padding: 0px 40px;
+}
+
+.root--top-bar {
+  height: 55px;
+  background-color: #F55A5A;
+}
+
+.root--container {
+  width: 550px;
+  background-color: #FFFFFF;
+  margin: auto;
+  box-shadow: var(--shadow-elevation-medium);
+  transition: 400ms ease-in;
+  transform: translate(144px, -30px) rotate(8deg);
+  position: absolute;
+  top: 28vh;
+  left: 35vw;
+}
+
+.root--container:hover {
+  box-shadow: var(--shadow-elevation-high);
+  transition: 400ms ease-in;
+}
+
+.scan {
+  min-width: 50vw;
+  height: 1005px;
+}
+
+.scan-container {
+  min-width: 100vw;
+}
+
+.small-text {
+  font-size: 10px;
+  margin: 0 0 10px 0;
+}
+
+.title {
+  font-family: 'rubberstamp';
+  font-size: 150px;
+  text-align: left;
+  margin: .5em 0 2.5em .5em;
+  color: #587b99;
+}
+
+.wide-kearning {
+  letter-spacing: .17em;
 }
 /* ///////////////////
 

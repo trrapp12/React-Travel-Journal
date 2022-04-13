@@ -103,8 +103,8 @@ export default [
     title: "Banff National Park",
     location: "Canada",
     googleMapsUrl: "https://g.page/BanffNP?share",
-    startDate: "~2016",
-    endDate: "~2016",
+    startDate: "2016",
+    endDate: "2016",
     description: "Banff National Park is an outdoor enthusiast’s paradise, defined by a picture-perfect mountain landscape of rugged peaks, sparkling lakes and powerful rivers. Spanning 2,564 square miles (6,641 square kilometers), the park is part of the iconic Canadian Rockies mountain range. Enjoy hiking, fishing, skiing and wildlife watching, or simply relax in natural hot springs and admire the park’s majestic natural scenery. Photo credit: Jaime Reimer, Pexels",
     imageUrl: "pexels-jaime-reimer-2662086.jpg"
   }
