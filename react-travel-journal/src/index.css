@@ -126,6 +126,13 @@ Classes
   flex-direction: column;
 }
 
+.chinese-coin {
+  transform: translate(24vh, 3vh);
+  width: 18%;
+  height: 100%;
+}
+
+
 .bold {
   font-weight: 800;
 }
