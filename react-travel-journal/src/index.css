@@ -35,9 +35,6 @@ Variables
     41.1px 114px 155.4px -1.4px hsl(var(--shadow-color) / 0.41);
 }
 
-* {
-  border: solid red 1px;
-}
 
 /* ///////////////////
 
