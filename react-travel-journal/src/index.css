@@ -11,27 +11,28 @@ Basic Variables
 }
 
 :root {
-  --shadow-color: 0deg 30% 74%;
+  --shadow-color: 0deg 0% 58%;
   --shadow-elevation-low:
-    0px 0.7px 1px hsl(var(--shadow-color) / 0),
-    0px 1.1px 1.7px hsl(var(--shadow-color) / 0.12),
-    -0.1px 2.1px 3.2px hsl(var(--shadow-color) / 0.24);
+    0.4px 1px 1.4px hsl(var(--shadow-color) / 0.23),
+    0.7px 1.8px 2.5px -0.7px hsl(var(--shadow-color) / 0.34),
+    1.5px 4.3px 5.8px -1.4px hsl(var(--shadow-color) / 0.45);
   --shadow-elevation-medium:
-    0px 0.7px 1px hsl(var(--shadow-color) / 0),
-    -0.1px 2.2px 3.3px hsl(var(--shadow-color) / 0.06),
-    -0.2px 3.8px 5.7px hsl(var(--shadow-color) / 0.12),
-    -0.3px 6.2px 9.3px hsl(var(--shadow-color) / 0.18),
-    -0.4px 10.6px 15.9px hsl(var(--shadow-color) / 0.24);
+    0.4px 1px 1.4px hsl(var(--shadow-color) / 0.19),
+    1.2px 3.4px 4.6px -0.4px hsl(var(--shadow-color) / 0.25),
+    2.3px 6.3px 8.6px -0.7px hsl(var(--shadow-color) / 0.3),
+    4.2px 11.6px 15.8px -1.1px hsl(var(--shadow-color) / 0.36),
+    7.7px 21.4px 29.2px -1.4px hsl(var(--shadow-color) / 0.41);
   --shadow-elevation-high:
-    0px 0.7px 1px hsl(var(--shadow-color) / 0),
-    -0.2px 3.7px 5.6px hsl(var(--shadow-color) / 0.03),
-    -0.3px 6.3px 9.5px hsl(var(--shadow-color) / 0.07),
-    -0.4px 8.9px 13.4px hsl(var(--shadow-color) / 0.1),
-    -0.5px 11.9px 17.9px hsl(var(--shadow-color) / 0.14),
-    -0.7px 15.8px 23.7px hsl(var(--shadow-color) / 0.17),
-    -0.9px 20.9px 31.4px hsl(var(--shadow-color) / 0.2),
-    -1.2px 27.7px 41.6px hsl(var(--shadow-color) / 0.24),
-    -1.5px 36.6px 54.9px hsl(var(--shadow-color) / 0.27);
+    0.4px 1px 1.4px hsl(var(--shadow-color) / 0.18),
+    2.6px 7.1px 9.7px -0.2px hsl(var(--shadow-color) / 0.2),
+    4.6px 12.6px 17.2px -0.3px hsl(var(--shadow-color) / 0.23),
+    6.7px 18.6px 25.4px -0.5px hsl(var(--shadow-color) / 0.26),
+    9.3px 25.8px 35.2px -0.6px hsl(var(--shadow-color) / 0.28),
+    12.7px 35.2px 48px -0.8px hsl(var(--shadow-color) / 0.31),
+    17.3px 47.9px 65.3px -1px hsl(var(--shadow-color) / 0.33),
+    23.3px 64.6px 88.1px -1.1px hsl(var(--shadow-color) / 0.36),
+    31.1px 86.3px 117.6px -1.3px hsl(var(--shadow-color) / 0.38),
+    41.1px 114px 155.4px -1.4px hsl(var(--shadow-color) / 0.41);
 }
 
 /* ///////////////////
@@ -45,7 +46,7 @@ body {
   box-sizing: border-box;
   font-family: 'Inter', sans-serif;
   font-size: 12px;
-  background-color: hsl(349.09,9.73%,80.31%);
+  background-color: hsl(349.09,9.73%,94.31%);
 }
 
 
@@ -134,6 +135,32 @@ Classes
   white-space: nowrap;
 }
 
+.parallax--first {
+  background-image: url('../public/assets/spain_projects_and_finished_products.jpg');
+  width: 100vw;
+  min-height: 90vh;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.not-parallax--first {
+  width: 100vw;
+  min-height: 90vh;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.parallax--second {
+  background-image: url('../public/assets/GOAT.jpg');
+  width: 100vw;
+  min-height: 90vh;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .root {
   padding: 0px 40px;
 }
@@ -195,7 +222,7 @@ Classes
   transform: translate(23.75%, 53vh);
   position: relative;
   z-index: -10;
-  height: 6em;
+  height: 60vh;
 }
 
 .title span,
