@@ -1,7 +1,7 @@
 
 /* ///////////////////
 
-Basic Variables 
+Variables 
 
 ////////////////////*/
 
@@ -33,6 +33,10 @@ Basic Variables
     23.3px 64.6px 88.1px -1.1px hsl(var(--shadow-color) / 0.36),
     31.1px 86.3px 117.6px -1.3px hsl(var(--shadow-color) / 0.38),
     41.1px 114px 155.4px -1.4px hsl(var(--shadow-color) / 0.41);
+}
+
+* {
+  border: solid red 1px;
 }
 
 /* ///////////////////
