@@ -61,8 +61,13 @@ a {
   color: #918E9B;
 }
 
-main {
-  overflow: hidden; 
+h1 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+}
+
+hr {
+  border: 1px solid #f5f5f5;
 }
 
 img {
@@ -73,24 +78,27 @@ img {
   border-radius: 15px;
 }
 
-h1 {
-  font-family: 'Inter', sans-serif;
-  font-weight: 800;
-}
-
-hr {
-  border: 1px solid #f5f5f5;
+main {
+  overflow: hidden; 
 }
 
 p {
   margin: 0;
 }
 
+
+
 /* ///////////////////
 
 Classes
 
 ////////////////////*/
+.alaska {
+  width: 29%;
+  height: auto;
+  transform: translate(-89%, 424px);
+  position: absolute;
+}
 
 .all-caps {
   text-transform: uppercase;
@@ -210,6 +218,15 @@ Classes
   margin: 0 0 10px 0;
 }
 
+.text-alaska {
+  font-family: 'rubberstamp';
+  font-size: 6rem;
+  color: hsl(349.44,58.14%,57.84%);
+  display: inline-block;
+  width: 36%;
+  text-align: end;
+}
+
 .title {
   font-family: 'rubberstamp';
   font-size: 150px;
@@ -223,7 +240,7 @@ Classes
 
 .title1 {
   font-family: 'rubberstamp';
-  font-size: 150px;
+  font-size: 10.5rem;
   text-align: left;
   margin: .5em 0 0.5em .5em;
   color: #587b99;
