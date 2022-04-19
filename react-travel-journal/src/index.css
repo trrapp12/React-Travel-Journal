@@ -104,6 +104,10 @@ Classes
   text-transform: uppercase;
 }
 
+.bold {
+  font-weight: 800;
+}
+
 .card--container {
   display: flex;
   flex-direction: row;
@@ -134,15 +138,62 @@ Classes
   flex-direction: column;
 }
 
+.char6 {
+  transform: rotate(96deg)
+}
+
+.char7 {
+  transform: rotate(116deg)
+}
+
+.char8 {
+  transform: rotate(136deg)
+}
+
+.char9 {
+  transform: rotate(156deg)
+}
+
+.char10 {
+  transform: rotate(176deg)
+}
+
+.char11 {
+  transform: rotate(196deg)
+}
+
+.char12 {
+  transform: rotate(0deg)
+}
+
+.char13 {
+  transform: rotate(20deg)
+}
+
+.char14 {
+  transform: rotate(40deg)
+}
+
+.char15 {
+  transform: rotate(60deg)
+}
+
+.char16 {
+  transform: rotate(80deg)
+}
+
+.char17 {
+  transform: rotate(100deg)
+}
+
+.char18 {
+  transform: rotate(120deg)
+}
+
 .chinese-coin {
   transform: translate(24vh, 3vh);
   width: 18%;
   height: 100%;
-}
-
-
-.bold {
-  font-weight: 800;
 }
 
 .overflow-ellipsis {
@@ -231,7 +282,7 @@ Classes
 
 .title {
   font-family: 'rubberstamp';
-  font-size: 150px;
+  font-size: 10.5rem;
   text-align: left;
   margin: 0em 0 0em .5em;
   color: #587b99;
@@ -262,57 +313,7 @@ Classes
   z-index: 1;
 }
 
-.char6 {
-  transform: rotate(96deg)
-}
 
-.char7 {
-  transform: rotate(116deg)
-}
-
-.char8 {
-  transform: rotate(136deg)
-}
-
-.char9 {
-  transform: rotate(156deg)
-}
-
-.char10 {
-  transform: rotate(176deg)
-}
-
-.char11 {
-  transform: rotate(196deg)
-}
-
-.char12 {
-  transform: rotate(0deg)
-}
-
-.char13 {
-  transform: rotate(20deg)
-}
-
-.char14 {
-  transform: rotate(40deg)
-}
-
-.char15 {
-  transform: rotate(60deg)
-}
-
-.char16 {
-  transform: rotate(80deg)
-}
-
-.char17 {
-  transform: rotate(100deg)
-}
-
-.char18 {
-  transform: rotate(120deg)
-}
 
 .wide-kearning {
   letter-spacing: .17em;
