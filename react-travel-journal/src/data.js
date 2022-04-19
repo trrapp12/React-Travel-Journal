@@ -82,7 +82,7 @@ export default [
     imageUrl: "pexels-j-rodriguez-2274245.jpg"
   },
   {
-    title: "Arctic Shield",
+    title: "Alaska Shield",
     location: "Kenai, Alaska",
     googleMapsUrl: "https://goo.gl/maps/wsXwi8FH5AZFj9wP9",
     startDate: "12 Jan, 2021",

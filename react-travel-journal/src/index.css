@@ -317,6 +317,14 @@ Classes
 .wide-kearning {
   letter-spacing: .17em;
 }
+
+.white-bible {
+    position: absolute;
+    width: 27%;
+    height: auto;
+    transform: translate(10px 10px);
+    transform: translate(104%, 47%) rotate(350deg);
+}
 /* ///////////////////
 
 Media Queries
