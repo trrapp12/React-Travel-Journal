@@ -320,10 +320,10 @@ Classes
 
 .white-bible {
     position: absolute;
-    width: 27%;
+    width: 29%;
     height: auto;
     transform: translate(10px 10px);
-    transform: translate(104%, 47%) rotate(350deg);
+    transform: translate(105%, -4%) rotate(350deg);
 }
 /* ///////////////////
 
