@@ -96,7 +96,7 @@ Classes
 .alaska {
   width: 29%;
   height: auto;
-  transform: translate(-89%, 424px);
+  transform: translate(-89%, 424px) rotate(350deg);
   position: absolute;
 }
 
