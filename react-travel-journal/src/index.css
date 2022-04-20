@@ -225,7 +225,7 @@ Classes
 .gadabout {
   color: #c4745a;
   float: left;
-  margin: 1em 3em 0em 0em;
+  margin: 1em 1em 0 0;
   shape-margin: 1.25rem;
   shape-outside: circle(40%);
   -webkit-transform: rotate(354deg);
