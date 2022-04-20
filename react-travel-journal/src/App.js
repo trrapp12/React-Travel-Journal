@@ -13,6 +13,7 @@ const App = (props) => {
       endDate = {input.endDate}
       description = {input.description}
       imageUrl = {input.imageUrl}
+      photoCredit = {input.photoCredit}
       />
     )
   })
