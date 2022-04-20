@@ -53,7 +53,7 @@ A basic static page built using React.
 ### GADABOUT THE WORLD published at: 
 ---
 
-[Trevor-Rapp-Electronic-Business-Card](https://trrapp12.github.io/React-Travel-Journal/)
+[GADABOUT THE WORLD](https://trrapp12.github.io/React-Travel-Journal/)
 
 <br>
 <br>
