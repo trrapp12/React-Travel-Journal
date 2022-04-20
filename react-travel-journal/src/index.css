@@ -325,15 +325,13 @@ Classes
 }
 
 .title {
-  font-family: 'rubberstamp';
-  font-size: 10.5rem;
-  text-align: left;
   color: #587b99;
+  font-family: rubberstamp;
+  font-size: 10.5rem;
   position: relative;
+  text-align: left;
   z-index: -10;
-  margin: 0 0 0 .5em;
-  -webkit-transform: translate(31%,-48vh);
-  transform: translate(31%,-73vh);
+  transform: rotate(317deg) translate(36%, -44vw);
 }
 
 .title1 {
