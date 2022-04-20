@@ -13,7 +13,7 @@ const Card = (props) => {
         <h1>{props.title}</h1>
         <p className="small-text bold">{props.startDate} - {props.endDate}</p>
         <p className="">{props.description}</p>
-        <p className="photo-credit">{props.photoCredit}</p>
+        <p className="photo-credit">Photo Credit: {props.photoCredit}</p>
       </div>
       <div className="card--reverse-flow">
         <hr></hr>

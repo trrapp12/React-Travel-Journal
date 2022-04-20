@@ -257,6 +257,13 @@ Classes
   background-size: cover;
 }
 
+
+.photo-credit {
+  font-weight: 800;
+  margin-top: 1em;
+  color: #f55a5a;
+}
+
 .not-parallax--first {
   background-attachment: fixed;
   background-repeat: no-repeat;
