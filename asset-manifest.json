@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Travel-Journal/static/css/main.24437746.css",
-    "main.js": "/React-Travel-Journal/static/js/main.9000eead.js",
+    "main.css": "/React-Travel-Journal/static/css/main.4f622b1f.css",
+    "main.js": "/React-Travel-Journal/static/js/main.cb92feff.js",
     "static/media/GOAT.jpg": "/React-Travel-Journal/static/media/GOAT.9f935683ba4de6d38080.jpg",
     "static/media/spain_projects_and_finished_products.jpg": "/React-Travel-Journal/static/media/spain_projects_and_finished_products.34e889562a7c44e4a6fe.jpg",
     "static/media/MailartRubberstamp-Regular.otf": "/React-Travel-Journal/static/media/MailartRubberstamp-Regular.c90b48234a896c6dbfcc.otf",
     "index.html": "/React-Travel-Journal/index.html",
-    "main.24437746.css.map": "/React-Travel-Journal/static/css/main.24437746.css.map",
-    "main.9000eead.js.map": "/React-Travel-Journal/static/js/main.9000eead.js.map"
+    "main.4f622b1f.css.map": "/React-Travel-Journal/static/css/main.4f622b1f.css.map",
+    "main.cb92feff.js.map": "/React-Travel-Journal/static/js/main.cb92feff.js.map"
   },
   "entrypoints": [
-    "static/css/main.24437746.css",
-    "static/js/main.9000eead.js"
+    "static/css/main.4f622b1f.css",
+    "static/js/main.cb92feff.js"
   ]
 }
