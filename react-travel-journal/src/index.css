@@ -217,6 +217,10 @@ Classes
   z-index: 40;
 }
 
+.footer-image {
+  padding-left: 6em;
+}
+
 .gadabout {
   color: #c4745a;
   float: left;
