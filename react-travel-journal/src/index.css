@@ -209,10 +209,11 @@ Classes
 }
 
 .emb {
-  width: 17%;
   height: auto;
-  transform: translate(89%, 127px) rotate(7deg);
   position: absolute;
+  -webkit-transform: translate(89%,127px) rotate(7deg);
+  transform: translate(29%,102px) rotate(348deg);
+  width: 17%;
   z-index: 40;
 }
 
@@ -227,8 +228,9 @@ Classes
 }
 
 .iraqi-flag {
-  width: 15%;
-  transform: translate(419%, 10px) rotate(2deg);
+  width: 20%;
+  height: auto;
+  transform: translate(-71px, -46px) rotate(6deg);
 }
 
 .lao-tzu {
@@ -313,6 +315,14 @@ Classes
 
 .special-p {
   margin-left: 7em;
+}
+
+.terrorist-permit {
+  width: 28%;
+  height: auto;
+  transform: translate(-188px, 10px);
+  position: relative;
+  z-index: -2;
 }
 
 .text-alaska {
