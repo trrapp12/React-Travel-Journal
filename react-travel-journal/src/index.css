@@ -197,9 +197,22 @@ Classes
   height: 100%;
 }
 
+.emb {
+  width: 17%;
+  height: auto;
+  transform: translate(89%, 127px) rotate(7deg);
+  position: absolute;
+  z-index: 40;
+}
+
 .gadabout {
   margin: 0em 4em;
   transform: rotate(354deg);
+}
+
+.iraqi-flag {
+  width: 15%;
+  transform: translate(419%, 10px) rotate(2deg);
 }
 
 .lao-tzu {
