@@ -1,4 +1,4 @@
-﻿# React-Travel-Journal
+﻿# GADABOUT THE WORLD
 
 ##### Contributors: Trevor Rapp
 
@@ -32,7 +32,7 @@ A basic static page built using React.
 <br>
 <br>
 
-### Trevor-Rapp-Electronic-Business-Card v1.0 demonstrates the following:
+### GADABOUT THE WORLD is a homeage the spirit of "Gadabout," a German word that describes a person who wanders in search of pleasure.  v1.0 demonstrates the following:
 ---
 
 - [x] Use of map() to iterate of array of items to create JSX elements
@@ -50,10 +50,10 @@ A basic static page built using React.
 <br>
 <br>
 
-### Trevor-Rapp-Electronic-Business-Card published at: 
+### GADABOUT THE WORLD published at: 
 ---
 
-[Trevor-Rapp-Electronic-Business-Card](https://trrapp12.github.io/Trevor-Rapp-Electronic-Business-Card/)
+[Trevor-Rapp-Electronic-Business-Card](https://trrapp12.github.io/React-Travel-Journal/)
 
 <br>
 <br>
