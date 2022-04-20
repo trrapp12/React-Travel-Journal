@@ -86,6 +86,11 @@ p {
   margin: 0;
 }
 
+.definition-container > p {
+  color: #C4745A;
+  font-family: 'rubberstamp';
+  font-size: 2rem;
+}
 
 
 /* ///////////////////
@@ -197,6 +202,15 @@ Classes
   height: 100%;
 }
 
+.definition-container {
+  color: #C4745A;
+  font-family: 'rubberstamp';
+  font-size: 2rem;
+  width: 40%;
+  margin-top: 11em;
+  margin-left: 11em;
+}
+
 .emb {
   width: 17%;
   height: auto;
@@ -208,6 +222,10 @@ Classes
 .gadabout {
   margin: 0em 4em;
   transform: rotate(354deg);
+  color: #C4745A;
+  shape-outside: circle(50%);
+  shape-margin: 0.5rem;
+  float: left;
 }
 
 .iraqi-flag {
