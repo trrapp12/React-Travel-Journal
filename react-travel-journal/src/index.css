@@ -107,10 +107,6 @@ Classes
   font-weight: 800;
 }
 
-.bottom-margin {
-  margin-bottom: 1em;
-}
-
 .card--container {
   display: flex;
   flex-direction: row;
@@ -206,6 +202,10 @@ Classes
   margin-left: 9em;
   margin-top: 6em;
   width: 30%;
+}
+
+.definition-container > p {
+  margin-bottom: .5em;
 }
 
 .emb {
