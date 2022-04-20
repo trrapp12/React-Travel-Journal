@@ -86,13 +86,6 @@ p {
   margin: 0;
 }
 
-.definition-container > p {
-  color: #C4745A;
-  font-family: 'rubberstamp';
-  font-size: 2rem;
-}
-
-
 /* ///////////////////
 
 Classes
@@ -207,12 +200,18 @@ Classes
 }
 
 .definition-container {
+  color: #c4745a;
+  font-family: rubberstamp;
+  font-size: 2rem;
+  margin-left: 3em;
+  margin-top: 5em;
+  width: 40%;
+}
+
+.definition-container > p {
   color: #C4745A;
   font-family: 'rubberstamp';
   font-size: 2rem;
-  width: 40%;
-  margin-top: 11em;
-  margin-left: 11em;
 }
 
 .emb {
