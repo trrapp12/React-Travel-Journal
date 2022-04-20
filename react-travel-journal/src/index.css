@@ -94,10 +94,11 @@ Classes
 
 ////////////////////*/
 .alaska {
-  width: 29%;
   height: auto;
-  transform: translate(-89%, 424px) rotate(350deg);
   position: absolute;
+  -webkit-transform: translate(-89%,424px) rotate(350deg);
+  transform: translate(-140%,124px) rotate(350deg);
+  width: 29%;
 }
 
 .all-caps {
@@ -199,6 +200,11 @@ Classes
 .gadabout {
   margin: 0em 4em;
   transform: rotate(354deg);
+}
+
+.lao-tzu {
+  display: inline-block;
+  margin-top: 1em;
 }
 
 .overflow-ellipsis {
