@@ -196,6 +196,11 @@ Classes
   height: 100%;
 }
 
+.gadabout {
+  margin: 0em 4em;
+  transform: rotate(354deg);
+}
+
 .overflow-ellipsis {
   text-overflow: ellipsis;
   overflow: hidden;
