@@ -302,6 +302,14 @@ Classes
   transition: 400ms ease-in;
 }
 
+.salvador {
+  width: 32%;
+  height: auto;
+  transform: translate(10px, 10px);
+  position: relative;
+  z-index: -2;
+}
+
 .scan {
   min-width: 30vw;
   height: 100%;
