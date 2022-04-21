@@ -6,6 +6,10 @@
 
 <br>
 
+https://user-images.githubusercontent.com/11747875/164366057-d5640670-60da-47de-abc2-dd4b5a10fb6c.mp4
+
+<br>
+
 [![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/React-Travel-Journal/)
 
 <br>
