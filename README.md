@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/11747875/164366057-d5640670-60da-47de-
 
 <br>
 
-[![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://trrapp12.github.io/React-Travel-Journal/)
+[![View Project](https://user-images.githubusercontent.com/11747875/141705232-471a0b9c-ca45-4540-a1b6-740c5e1becbe.png)](https://gadabouttheworld.com)
 
 <br>
 
@@ -57,7 +57,7 @@ A basic static page built using React.
 ### GADABOUT THE WORLD published at: 
 ---
 
-[GADABOUT THE WORLD](https://trrapp12.github.io/React-Travel-Journal/)
+[GADABOUT THE WORLD](https://gadabouttheworld.com)
 
 <br>
 <br>
