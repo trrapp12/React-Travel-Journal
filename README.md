@@ -89,13 +89,22 @@ For me the hardest part about this was wrapping my mind around passing props fro
 
 <br/>
 
----
-
 ### SCRIMBA FRONT END DEVELOPER CAREER CERTIFICATE:
+
+*This project was completed as part of the Scrimba [The Frontend Career Path](https://scrimba.com/learn/frontend), which is composed of:*
+
+* over 1000 lessons
+* over 65 hours of instruction
+* over 30 instructor-lead, hands-on projects
+* over 15 Solo Projects (completed completely alone, with only Figma files and user stories provided.)
+
+![Scrimba Frontend Developer Career Path Certificate of Completion](https://private-user-images.githubusercontent.com/11747875/286343080-af711cc7-262a-4e10-b714-38242281f13a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDExOTE4OTIsIm5iZiI6MTcwMTE5MTU5MiwicGF0aCI6Ii8xMTc0Nzg3NS8yODYzNDMwODAtYWY3MTFjYzctMjYyYS00ZTEwLWI3MTQtMzgyNDIyODFmMTNhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI4VDE3MTMxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlZjc1NTNiY2VhMzVlN2JlYzE3NWJmMWNmMWU2NmY0NzhlZTY4NTAzN2NjMDZjZGE0NDdlZTQ0MzA0NTU4OGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.4jMY-bxEEuNWVW1JKrIR6nwGqdX0gKv7Cu4xAnnyJwk)
 
 [CERTIFICATE OF COMPLETION - The Frontend Developer Career Path.pdf](https://github.com/trrapp12/dice-game/files/13483804/CERTIFICATE.OF.COMPLETION.-.The.Frontend.Developer.Career.Path.pdf)
 
 <br/>
+
+---
 
 ---
 
