@@ -91,6 +91,14 @@ For me the hardest part about this was wrapping my mind around passing props fro
 
 ---
 
+### SCRIMBA FRONT END DEVELOPER CAREER CERTIFICATE:
+
+[CERTIFICATE OF COMPLETION - The Frontend Developer Career Path.pdf](https://github.com/trrapp12/dice-game/files/13483804/CERTIFICATE.OF.COMPLETION.-.The.Frontend.Developer.Career.Path.pdf)
+
+<br/>
+
+---
+
 ### ATTRIBUTIONS: 
 
 * Original project idea was part of the <a href="https://scrimba.com/learn/frontend"> Scrimba's Front End Development Course.</a>
